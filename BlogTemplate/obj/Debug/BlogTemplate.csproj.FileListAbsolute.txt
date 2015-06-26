@@ -1,0 +1,8 @@
+c:\users\manifest\documents\visual studio 2013\Projects\BlogTemplate\BlogTemplate\bin\Debug\BlogTemplate.exe.config
+c:\users\manifest\documents\visual studio 2013\Projects\BlogTemplate\BlogTemplate\obj\Debug\BlogTemplate.Form1.resources
+c:\users\manifest\documents\visual studio 2013\Projects\BlogTemplate\BlogTemplate\obj\Debug\BlogTemplate.Properties.Resources.resources
+c:\users\manifest\documents\visual studio 2013\Projects\BlogTemplate\BlogTemplate\obj\Debug\BlogTemplate.csproj.GenerateResource.Cache
+c:\users\manifest\documents\visual studio 2013\Projects\BlogTemplate\BlogTemplate\bin\Debug\BlogTemplate.exe
+c:\users\manifest\documents\visual studio 2013\Projects\BlogTemplate\BlogTemplate\bin\Debug\BlogTemplate.pdb
+c:\users\manifest\documents\visual studio 2013\Projects\BlogTemplate\BlogTemplate\obj\Debug\BlogTemplate.exe
+c:\users\manifest\documents\visual studio 2013\Projects\BlogTemplate\BlogTemplate\obj\Debug\BlogTemplate.pdb
